@@ -30,6 +30,18 @@ Repository ini cocok digunakan oleh:
 
 ---
 
+---
+
+## 📚 Referensi & Artikel Terkait
+
+Untuk pembahasan lebih lengkap mengenai repository lokal Ubuntu, termasuk panduan konfigurasi, penjelasan mirror, dan tips optimasi APT, silakan baca artikel berikut:
+
+👉 **Repository Lokal Ubuntu Indonesia**  
+https://monobitech.com/repository-lokal-ubuntu-22-04-indonesia/
+
+Artikel tersebut membahas penggunaan repository lokal Ubuntu secara lebih mendalam dan dapat dijadikan referensi tambahan.
+
+
 ## 📌 Format Repository Ubuntu 24.04
 
 Sejak Ubuntu 24.04, APT menggunakan format file **`ubuntu.sources`**.
